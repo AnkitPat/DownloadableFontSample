@@ -12,6 +12,7 @@ android {
         applicationId "com.example.ankit.downloadablefonts"
         minSdkVersion 14
         targetSdkVersion 26
+
     }
 
     buildTypes {
